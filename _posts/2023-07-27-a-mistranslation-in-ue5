@@ -9,4 +9,6 @@ tags:
 ---
 ### 如图所示：
 
+![][https://github.com/lingaoliu105/lingaoliu105.github.io/blob/gh-pages/assets/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-07-28%20155056.png]
+
 此为蓝图编辑器中实现接口时的节点右键菜单。其中“将调用添加到父函数”一项，原文为“Add call to parent function",在此处正确的含义应为“添加对父函数的调用”。官方在翻译时误译成另一种歧义，结合语境来看显然是不对的。
